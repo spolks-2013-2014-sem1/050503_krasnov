@@ -450,7 +450,7 @@ int main()
 
     cout << "\n-input server type(1 - udp, 2 - tcp): ";
     int serverType;
-    cin >> serverType;
+    	cin >> serverType;
 
     Session ses;
 
